@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayangi Pamodya</h1>
 <h3 align="center">IT Undergraduate | Passionate about coding and innovation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayangi18&label=Profile%20views&color=0e75b6&style=flat" alt="jayangi18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayangi18&label=Profile%20views&color=0e75b6&style=flat" alt="jayangi18" /> </p>
 
 - 🌱 I’m currently learning **Java, React**
 
